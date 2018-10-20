@@ -9,7 +9,7 @@
 	d:DesignWidth="800" d:DesignHeight="600">
 
 	<Grid x:Name="LayoutRoot" Background="White">
-		<TextBlock x:Name="usernameTextBlock" HorizontalAlignment="Left" Margin="249,223.5,0,0" VerticalAlignment="Top" Width="100" Height="30" Text="Usernam\e" TextWrapping="Wrap" FontSize="18.667"/>
+		<TextBlock x:Name="usernameTextBlock" HorizontalAlignment="Left" Margin="249,223.5,0,0" VerticalAlignment="Top" Width="100" Height="30" Text="Userna/m\e" TextWrapping="Wrap" FontSize="18.667"/>
 		<TextBlock x:Name="passwordTextBlock" HorizontalAlignment="Left" Margin="250,263.5,0,0" VerticalAlignment="Top" Width="100" Height="30" FontSize="18.667" Text="Password" TextWrapping="Wrap"/>
 		<TextBox x:Name="usernameTextBox" HorizontalAlignment="Left" Margin="367,223.5,0,0" VerticalAlignment="Top" TextWrapping="Wrap" Width="200" Height="30" FontSize="18.667"/>
 		<Button x:Name="loginButton" Margin="331.5,0,318.5,252.5" VerticalAlignment="Bottom" Content="Login" Width="150" Height="30" FontSize="16"/>
