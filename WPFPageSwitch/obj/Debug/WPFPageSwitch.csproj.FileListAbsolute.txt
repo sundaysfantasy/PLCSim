@@ -1,0 +1,53 @@
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\JagoanFisika.exe
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\JagoanFisika.pdb
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\bin\Debug\JagoanFisika.exe
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\bin\Debug\JagoanFisika.pdb
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\ResolveAssemblyReference.cache
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\Gameplay.baml
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\LoadGame.baml
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\Login.baml
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\MainMenu.baml
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\Option.baml
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\Register.baml
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\PageSwitcher.baml
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\Gameplay.g.cs
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\LoadGame.g.cs
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\Login.g.cs
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\MainMenu.g.cs
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\Option.g.cs
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\Register.g.cs
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\PageSwitcher.g.cs
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\App.g.cs
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\JagoanFisika_MarkupCompile.cache
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\JagoanFisika.g.resources
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\WPFPageSwitch.Properties.Resources.resources
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\GenerateResource-ResGen.read.1.tlog
+H:\Works\_VR\WPFPageSwitcher\WPFPageSwitch\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Drive\Arduino Projects\PLC Sim\VB\WPFPageSwitcher\WPFPageSwitch\obj\Debug\JagoanFisika.exe
+D:\Drive\Arduino Projects\PLC Sim\VB\WPFPageSwitcher\WPFPageSwitch\obj\Debug\JagoanFisika.pdb
+D:\Drive\Arduino Projects\PLC Sim\VB\WPFPageSwitcher\WPFPageSwitch\bin\Debug\JagoanFisika.exe
+D:\Drive\Arduino Projects\PLC Sim\VB\WPFPageSwitcher\WPFPageSwitch\bin\Debug\JagoanFisika.pdb
+D:\Drive\Arduino Projects\PLC Sim\VB\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\Gameplay.baml
+D:\Drive\Arduino Projects\PLC Sim\VB\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\LoadGame.baml
+D:\Drive\Arduino Projects\PLC Sim\VB\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\Login.baml
+D:\Drive\Arduino Projects\PLC Sim\VB\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\MainMenu.baml
+D:\Drive\Arduino Projects\PLC Sim\VB\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\Option.baml
+D:\Drive\Arduino Projects\PLC Sim\VB\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\Register.baml
+D:\Drive\Arduino Projects\PLC Sim\VB\WPFPageSwitcher\WPFPageSwitch\obj\Debug\PageSwitcher.baml
+D:\Drive\Arduino Projects\PLC Sim\VB\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\Gameplay.g.cs
+D:\Drive\Arduino Projects\PLC Sim\VB\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\LoadGame.g.cs
+D:\Drive\Arduino Projects\PLC Sim\VB\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\Login.g.cs
+D:\Drive\Arduino Projects\PLC Sim\VB\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\MainMenu.g.cs
+D:\Drive\Arduino Projects\PLC Sim\VB\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\Option.g.cs
+D:\Drive\Arduino Projects\PLC Sim\VB\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Menu\Register.g.cs
+D:\Drive\Arduino Projects\PLC Sim\VB\WPFPageSwitcher\WPFPageSwitch\obj\Debug\PageSwitcher.g.cs
+D:\Drive\Arduino Projects\PLC Sim\VB\WPFPageSwitcher\WPFPageSwitch\obj\Debug\App.g.cs
+D:\Drive\Arduino Projects\PLC Sim\VB\WPFPageSwitcher\WPFPageSwitch\obj\Debug\JagoanFisika_MarkupCompile.cache
+D:\Drive\Arduino Projects\PLC Sim\VB\WPFPageSwitcher\WPFPageSwitch\obj\Debug\JagoanFisika.g.resources
+D:\Drive\Arduino Projects\PLC Sim\VB\WPFPageSwitcher\WPFPageSwitch\obj\Debug\WPFPageSwitch.Properties.Resources.resources
+D:\Drive\Arduino Projects\PLC Sim\VB\WPFPageSwitcher\WPFPageSwitch\obj\Debug\WPFPageSwitch.csproj.GenerateResource.Cache
+D:\Drive\Arduino Projects\PLC Sim\VB\WPFPageSwitcher\WPFPageSwitch\obj\Debug\WPFPageSwitch.csprojResolveAssemblyReference.cache
+C:\Users\Electronisti\Documents\Visual Studio 2015\Projects\WPFPageSwitcher\WPFPageSwitch\obj\Debug\JagoanFisika.exe
+C:\Users\Electronisti\Documents\Visual Studio 2015\Projects\WPFPageSwitcher\WPFPageSwitch\obj\Debug\JagoanFisika.pdb
+C:\Users\Electronisti\Source\Repos\sundaysfantasy\PLCSim\WPFPageSwitch\obj\Debug\JagoanFisika.exe
+C:\Users\Electronisti\Source\Repos\sundaysfantasy\PLCSim\WPFPageSwitch\obj\Debug\JagoanFisika.pdb
